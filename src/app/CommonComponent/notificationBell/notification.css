@@ -1,0 +1,15 @@
+.NotificationView__root{
+    color: white;
+}
+.NotificationView__span{
+    position: absolute;
+    top: -4px;
+    right: 1vh;
+    background: crimson;
+    font-size: 10px;
+    padding: 3px 5px;
+    border-radius: 50%;
+}
+.NotificationView__button span  {
+    color: white;
+}

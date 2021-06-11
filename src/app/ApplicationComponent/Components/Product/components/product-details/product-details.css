@@ -1,0 +1,9 @@
+.product-details__root{
+    width: 300px;    
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 4px;
+    background: #e7e7e7;
+}

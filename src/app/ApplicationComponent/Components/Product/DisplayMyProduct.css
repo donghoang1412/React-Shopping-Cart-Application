@@ -1,0 +1,25 @@
+.DisplayMyProduct__root{
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    margin: auto;
+    height: 500px;
+    overflow: auto;
+    padding-bottom: 30px;
+}
+.DisplayMyProduct__input{
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 90%;
+}
+
+.DisplayMyProduct__search-bar-wrap{
+    width: 90%;
+    margin: auto;
+}
+
+.DisplayMyProduct__search-icon{
+    margin-left: 20px;
+    color: white;
+}

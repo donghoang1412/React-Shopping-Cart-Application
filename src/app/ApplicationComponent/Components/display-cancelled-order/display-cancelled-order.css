@@ -1,0 +1,8 @@
+.display-cancelled-order__root{
+    width: 85vw;
+    margin: auto;
+    height: 550px;
+    overflow: auto;
+    background-color: white;
+    padding: 10px;
+}

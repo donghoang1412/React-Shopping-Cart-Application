@@ -1,0 +1,36 @@
+.PopupNotificationView__root{
+    position: absolute;
+    top: 60px;
+    width: 300px;
+    margin: 5px;
+    transform: translateX(-45%);
+    background-color: grey;
+    border-radius: 10px;
+    /* padding: 1em; */
+    overflow: hidden;
+    z-index: 12;
+}
+
+.PopupNotificationView__inner{
+    /* position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 900px;
+    background-color: #FFF; */
+    height: 50px;
+    /* display: flex; */
+    align-items: center;
+    padding-bottom: 5px;
+    /* padding: 0.5em; */
+}
+
+.PopupNotificationView__inner :hover{
+    background-color: #525357;
+}
+
+.PopupNotificationView__p {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+

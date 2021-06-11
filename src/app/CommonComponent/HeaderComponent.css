@@ -1,0 +1,11 @@
+.HeaderComponent__current aria-current{
+    
+    border: 0ch !important;
+    background-color: white !important;
+
+}
+
+.navBar{
+    margin-top: 10px !important;
+    margin-left: 35% !important;
+}
