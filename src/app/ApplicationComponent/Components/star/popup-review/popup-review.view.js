@@ -11,7 +11,7 @@ export default function PopupReviewView(props) {
         productName,
         userName,
         submitReview
-    } = props
+    } = props // object destructuring 
 
    React.useEffect(() => {
         console.log("ProductName: ", productName);
